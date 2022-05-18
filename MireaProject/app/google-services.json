@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098886593759",
+    "project_id": "mireaproject-maxserbin",
+    "storage_bucket": "mireaproject-maxserbin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098886593759:android:4a8ba7a1997e4b039abd6a",
+        "android_client_info": {
+          "package_name": "ru.mirea.serbin.mireaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098886593759-sam6m3qhsi6256rhj68il91hl1fl2882.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqdQc7QbvnydenqJO6m9jWF4QBBs4zFto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098886593759-sam6m3qhsi6256rhj68il91hl1fl2882.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

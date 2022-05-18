@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/drawable-v24/ic_menu_calculate.xml" value="0.126" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/drawable-v24/ic_menu_web.xml" value="0.126" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/layout/content_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_calculate.xml" value="0.22" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_web_view.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/layout/nav_header_main.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.2163265306122449" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice4/MireaProject/app/src/main/res/drawable-v24/ic_menu_audio.xml" value="0.272" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice4/MireaProject/app/src/main/res/layout/fragment_audio.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice4/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice5/MireaProject/app/src/main/res/layout/fragment_photo.xml" value="0.25" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice5/MireaProject/app/src/main/res/layout/fragment_record.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice5/MireaProject/app/src/main/res/layout/fragment_sensors.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice5/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/layout/activity_story.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/layout/content_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/layout/content_story.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/layout/fragment_stories.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/layout/story_card.xml" value="0.5" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice6/MireaProject/app/src/main/res/menu/main.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/layout/activity_firebase_authentication.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/layout/fragment_first.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/layout/fragment_first2.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/layout/fragment_record.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/layout/fragment_second.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/layout/fragment_second2.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/layout/fragment_web_info.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice7/MireaProject/app/src/main/res/menu/main.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/activity_main.xml" value="0.2265625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/activity_story.xml" value="0.2265625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/add_subject.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.2265625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/content_add_subject.xml" value="0.2265625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/content_firebase_authentication.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/content_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/content_story.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/fragment_data.xml" value="0.33" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/fragment_web_info.xml" value="0.2265625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/layout/tvseries_list.xml" value="0.33" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice8/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/activity_firebase_authentication.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/activity_main.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/activity_story.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/add_series.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/content_main.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_audio.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_calculate.xml" value="0.26042841037204056" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_data.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_gallery.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_home.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_maps.xml" value="0.3484375" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_photo.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_record.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_sensors.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_settings.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_slideshow.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_stories.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/fragment_web_view.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/nav_header_main.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/layout/story_card.xml" value="0.21875" />
+        <entry key="..\:/Users/MAX/AndroidStudioProjects/practice9/MireaProject/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
